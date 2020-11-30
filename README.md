@@ -7,5 +7,6 @@
 
 - Username ingadmin(password:"password") can  access both userdetails and updateusedetails services.
 
-- I have added simulater of service failurethat will fail 20% of the calls.
+- I have added simulator of service failure that will fail 20% of the calls.
 
+- I have added  postman project to consume the services.
